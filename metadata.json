@@ -1,0 +1,6 @@
+{
+  "name": "CineFlow - The Complete Filmmaking Journey",
+  "description": "An interactive masterclass and creative studio teaching storytelling, cinematography, color palettes, shot design, camera movement, editing cut points, and directing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
